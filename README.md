@@ -15,8 +15,6 @@ Apatites are materials with the general formula $A_{10}(TO_{4})_{6} X_(2 \pm x)$
 
 A study from India was able to synthesize the Cu-doped Lead Apatite from the precursors: Cu3P and Pb2SO5 [3]. Their experimental x-ray diffraction pattern indeed matched well with the theoretical structure obtained by DFT optimization. [3]
 
-PS: I have also created a [GitHub repo](https://github.com/manassharma07/LK99) providing these files. Please start it if you find it useful!
-
 ## Reported Structures
 
 ### 1. Origin of correlated isolated flat bands in copper-substituted lead phosphate apatite
@@ -25,10 +23,10 @@ PS: I have also created a [GitHub repo](https://github.com/manassharma07/LK99) p
 
 #### Structures provided in the Supporting Information:
 **CIFs:**
-1. [LK99-Pb9P6CuO25_Cu_on_Pb(1)](https://www.bragitoff.com/wp-content/uploads/2023/08/LK99-Pb9P6CuO25_Cu_on_Pb1.cif) (page 12) (This is the actual LK99 material as the simulated XRD pattern compares well with [3])
-2. [LK99-Pb9P6CuO25_Cu_on_Pb(2)](https://www.bragitoff.com/wp-content/uploads/2023/08/LK99-Pb9P6CuO25_Cu_on_Pb2.cif) (page 13) (Cu substitution on Pb(2) does not result in flat bands so it is not probably LK99)
-3. [LK99-Pb9P6CuO26H2_Cu_on_Pb(1)](https://www.bragitoff.com/wp-content/uploads/2023/08/LK99-Pb9P6CuO26H2_Cu_on_Pb1.cif) (page 11) (This is also a candidate for LK99 but with a slightly different formula)
-4. [LK99-Pb9P6CuO26H2_Cu_on_Pb(2)](https://www.bragitoff.com/wp-content/uploads/2023/08/LK99-Pb9P6CuO26H2_Cu_on_Pb2.cif) (page 12) (Again, Cu substitution on Pb(2) is not useful)
+1. [LK99-Pb9P6CuO25_Cu_on_Pb(1)](https://github.com/manassharma07/LK99/blob/main/Griffin_arxiv/LK99-Pb9P6CuO25_Cu_on_Pb(1).cif) (page 12) (This is the actual LK99 material as the simulated XRD pattern compares well with [3])
+2. [LK99-Pb9P6CuO25_Cu_on_Pb(2)](https://github.com/manassharma07/LK99/blob/main/Griffin_arxiv/LK99-Pb9P6CuO25_Cu_on_Pb(2).cif) (page 13) (Cu substitution on Pb(2) does not result in flat bands so it is not probably LK99)
+3. [LK99-Pb9P6CuO26H2_Cu_on_Pb(1)](https://github.com/manassharma07/LK99/blob/main/Griffin_arxiv/LK99-Pb9P6CuO26H2_Cu_on_Pb(1).cif) (page 11) (This is also a candidate for LK99 but with a slightly different formula)
+4. [LK99-Pb9P6CuO26H2_Cu_on_Pb(2)](https://github.com/manassharma07/LK99/blob/main/Griffin_arxiv/LK99-Pb9P6CuO26H2_Cu_on_Pb(2).cif) (page 12) (Again, Cu substitution on Pb(2) is not useful)
 
 **POSCARs:**
 

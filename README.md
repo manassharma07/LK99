@@ -44,12 +44,12 @@ A study from India was able to synthesize the Cu-doped Lead Apatite from the pre
 6. [Pb9P6AgO25_Lai](https://github.com/manassharma07/LK99/blob/main/J.Lai_J_Mat_Sci_tech/Pb9P6AgO25_Lai.cif) (Ag doped Lead Apatite)
 
 **POSCARs:**
-1. [Lead_apatite_undoped-Pb10P6O25](https://www.bragitoff.com/wp-content/uploads/2023/08/Lead_apatite_undoped-Pb10P6O25.poscar)
-2. [LK99-Pb9P6CuO25_Lai](https://www.bragitoff.com/wp-content/uploads/2023/08/LK99-Pb9P6CuO25_Lai.poscar)
-3. [Pb9P6AgO25_Lai](https://www.bragitoff.com/wp-content/uploads/2023/08/Pb9P6AgO25_Lai.poscar)
-4. [Pb9P6AuO25_Lai](https://www.bragitoff.com/wp-content/uploads/2023/08/Pb9P6AuO25_Lai.poscar)
-5. [Pb9P6NiO25_Lai](https://www.bragitoff.com/wp-content/uploads/2023/08/Pb9P6NiO25_Lai.poscar)
-6. [Pb9P6ZnO25_Lai](https://www.bragitoff.com/wp-content/uploads/2023/08/Pb9P6ZnO25_Lai.poscar)
+1. [Lead_apatite_undoped-Pb10P6O25](https://github.com/manassharma07/LK99/blob/main/J.Lai_J_Mat_Sci_tech/Lead_apatite_undoped-Pb10P6O25.poscar)
+2. [LK99-Pb9P6CuO25_Lai](https://github.com/manassharma07/LK99/blob/main/J.Lai_J_Mat_Sci_tech/LK99-Pb9P6CuO25_Lai.poscar)
+3. [Pb9P6AgO25_Lai](https://github.com/manassharma07/LK99/blob/main/J.Lai_J_Mat_Sci_tech/Pb9P6AgO25_Lai.poscar)
+4. [Pb9P6AuO25_Lai](https://github.com/manassharma07/LK99/blob/main/J.Lai_J_Mat_Sci_tech/Pb9P6AuO25_Lai.poscar)
+5. [Pb9P6NiO25_Lai](https://github.com/manassharma07/LK99/blob/main/J.Lai_J_Mat_Sci_tech/Pb9P6NiO25_Lai.poscar)
+6. [Pb9P6ZnO25_Lai](https://github.com/manassharma07/LK99/blob/main/J.Lai_J_Mat_Sci_tech/Pb9P6ZnO25_Lai.poscar)
 
 ### 3. Structures of Precursors (Cu3P and Pb2SO5)
 **Source**: [MaterialsProject](https://next-gen.materialsproject.org/)

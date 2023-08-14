@@ -64,5 +64,7 @@ PS: I have also created a [GitHub repo](https://github.com/manassharma07/LK99) p
 
 ## References:
 [1] [2307.16892] [Origin of correlated isolated flat bands in copper-substituted lead phosphate apatite](https://arxiv.org/abs/2307.16892)
+
 [2] [LK-99 - Wikipedia](https://en.wikipedia.org/wiki/LK-99)
+
 [3] [2308.03544] [Absence of superconductivity in LK-99 at ambient conditions](https://arxiv.org/abs/2308.03544)

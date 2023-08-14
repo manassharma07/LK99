@@ -55,10 +55,10 @@ A study from India was able to synthesize the Cu-doped Lead Apatite from the pre
 **Source**: [MaterialsProject](https://next-gen.materialsproject.org/)
 
 **(a) Cu3P** ([mp-7463: Cu3P (Hexagonal, P6_3cm, 185)](https://next-gen.materialsproject.org/materials/mp-7463?formula=Cu3P))
-- **CIF**: [Cu3P_P63cm_mp-7463](https://www.bragitoff.com/wp-content/uploads/2023/08/Cu3P_P63cm_mp-7463.cif)
+- **CIF**: [Cu3P_P63cm_mp-7463](https://github.com/manassharma07/LK99/blob/main/Precursors/Cu3P_P63cm_mp-7463.cif)
 
 **(b) Pb2SO5** ([mp-21497: Pb2SO5 (Monoclinic, C2/m, 12)](https://next-gen.materialsproject.org/materials/mp-21497?formula=Pb2SO5))
-- **CIF**: [Pb2SO5_mp-21497](https://www.bragitoff.com/wp-content/uploads/2023/08/Pb2SO5_mp-21497.cif)
+- **CIF**: [Pb2SO5_mp-21497](https://github.com/manassharma07/LK99/blob/main/Precursors/Pb2SO5_mp-21497.cif)
 
 ## References:
 [1] [2307.16892] [Origin of correlated isolated flat bands in copper-substituted lead phosphate apatite](https://arxiv.org/abs/2307.16892)

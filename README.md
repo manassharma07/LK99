@@ -1,4 +1,4 @@
-# LK99
+# Structure files of LK99 and related materials (CIFs & POSCARs)
 This repo provides the structure files of LK99 and related materials reported in the literature. Hopefully, it will be useful to Computational Material Scientists.
 
 The discovery of [room-temperature superconductivity at ambient pressure in Cu-substituted apatite](https://arxiv.org/abs/2307.12008) (‘LK99’) has sent shockwaves through the scientific community. Social media platforms are abuzz with discussions, and experimentalists and theoreticians alike are diving headfirst into unraveling the secrets of this remarkable phenomenon.
